@@ -1,4 +1,4 @@
-# RagnaMod modpack auto install script Linux Side
+# RagnaMod modpack auto install script Windows Side
 
 ### NOTE: this is for modpack version 6.1.7
 
