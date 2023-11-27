@@ -28,4 +28,5 @@ Visit this link for more informations : https://core.curseforge.com/
 
 If you encounter any problem, do not hesitate to join the RagnaMod Community discord by clicking on the link below or open an issue on GitHub.
 
-[![Discord](https://cdn.discordapp.com/attachments/934134390726995999/934150251391102976/Discord.png)](https://discord.gg/bjjvFj9yQC)
+[![Discord](https://github.com/BideoGemu/RagnaModAutoInstallForLinux/assets/71313676/5c58fcf2-bc1a-4063-8f52-2ede5768b366)
+](https://discord.gg/bjjvFj9yQC)
